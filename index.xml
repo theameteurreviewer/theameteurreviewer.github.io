@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Amateur Reviewer</title>
+    <link>https://theameteurreviewer.github.io/</link>
+    <description>Recent content on The Amateur Reviewer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://theameteurreviewer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://theameteurreviewer.github.io/post/test-1/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theameteurreviewer.github.io/post/test-1/</guid>
+      <description>Hi Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tortor lacus, molestie non lectus at, auctor mattis nisl. Sed non lectus sollicitudin, vulputate est a, blandit dolor. Pellentesque convallis ex at massa posuere varius. Donec quis sodales est. Vivamus a purus sed massa molestie tempor. Phasellus consequat tincidunt est, ut imperdiet ex. Suspendisse tincidunt magna at orci tincidunt, non efficitur libero posuere. Pellentesque ac turpis fermentum lorem finibus blandit iaculis a nunc.</description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>https://theameteurreviewer.github.io/post/test-2/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theameteurreviewer.github.io/post/test-2/</guid>
+      <description>Hi this this test 2 Please do not mind </description>
+    </item>
+    
+  </channel>
+</rss>
